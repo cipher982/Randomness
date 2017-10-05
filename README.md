@@ -4,4 +4,4 @@
 
 ![Ticker Animation](https://github.com/cipher982/randomness/blob/master/media/ticker_animation_test.gif "Ticker Animation")
 
-![Brownian Motion Grid](https://github.com/cipher982/randomness/blob/master/media/brownian_motion_grid.png "Brownian Motion Grid")
+![Brownian Motion Grid](https://github.com/cipher982/randomness/blob/master/media/brownian_model_grid.png "Brownian Motion Grid")
