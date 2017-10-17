@@ -79,7 +79,7 @@ plt.show()
 #### Some of the good
 * It is a main component of modern cryptographic systems that power the digital age, see pseudorandom number generators.
 * Simulating risk models or estimating areas using the Monte Carlo Method. (See bottom of page for example)
-![Monte Carlo Still](https://github.com/cipher982/randomness/media/monte_carlo_still.png "Monte Carlo Still")
+![Monte Carlo Still](https://github.com/cipher982/randomness/blob/master/media/monte_carlo_still.png "Monte Carlo Still")
 * Statistical inference and how it enables the ideas of surveys and the scientific method to work.
 
 #### Some of the annoying
@@ -212,7 +212,7 @@ Monte Carlo methods, named after the casino in gambling mecca Monaco, came about
 
 *Here is an animated plot I created that iterates through 2000 steps of random points in the box, and continually re-calculates the estimates area of the circle: (Correct area is ~3.14)*
 
-![Monte Carlo Area Estimation](https://github.com/cipher982/randomness/media/out3.gif "Monte Carlo Area Estimation")
+![Monte Carlo Area Estimation](https://github.com/cipher982/randomness/blob/master/media/out3.gif "Monte Carlo Area Estimation")
 
 *Code below:*
 ``` python
