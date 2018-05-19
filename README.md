@@ -1,4 +1,4 @@
-# Randomness in all its wonderful forms!
+# Randomness in all the wonderful forms!
 Over the years I have fallen in love with the ideas of prediction, models, and the tailwind of computer analytics that subsequently brought them all together. It’s such a fascinating time to be an observer trying my best to keep up with the steady flow of papers and talks, and the ever increasing amount of open-source code that is becoming the norm for everything from academia to the tech giants of Facebook and Google.
 
 I wanted to be able to gather up all these scraps in my head and lay them back out in an attempt to help both me and a whoever else that may come by and graze. Most of these will focus on the general area of modeling and statistics from the frame of modern machine learning, so it would be best to go ahead and explain the foundations of randomness.
