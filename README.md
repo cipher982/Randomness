@@ -55,7 +55,7 @@ def build_tickers(lineCount=3, steps=steps):
                 # For y-value
                 # go a random direction
                 
-                n = random.randrange(-5,6,1)
+                n = np.random.randrange(-5,6,1)
                 x[i + 1][ii] = x[i][ii] + n
                 
     line, = plt.plot([], [], lw=1)
@@ -113,7 +113,7 @@ x = np.zeros((motionLength,2))
 for i in range(0,len(x) - 1):
 
     for ii in range(0,len(x[i])):
-        n = random.choice([1,0,-1])
+        n = np.random.choice([1,0,-1])
         x[i + 1][ii] = x[i][ii] + n
         
 # First set up the figure, the axis, and the plot element we want to animate
@@ -172,7 +172,7 @@ def brownian_model_plot(length):
     
     for i in range(0,len(X) - 1):
         for ii in range(0,len(X[i])):
-            direction = random.choice([1,0,-1,-2,2])
+            direction = np.random.choice([1,0,-1,-2,2])
             X[i + 1][ii] = X[i][ii] + direction
             
     x = X[:,0]
